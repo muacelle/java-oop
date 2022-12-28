@@ -19,7 +19,7 @@ public class Main {
         // Now it works!
     }
 
-    // non static. outside the static main method. inside Main class. Dependent on objects.
+    // non static. outside the static main method. Dependent on objects.
     void greeting() {
         System.out.println("Hello world!");
     }
